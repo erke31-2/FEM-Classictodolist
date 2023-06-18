@@ -125,11 +125,14 @@ const TodoList = ({
             setFilterQuery={setFilterQuery}
           />
         </li>
-        
-      </ul>
-       <p className="text-center text- dark:text-VeryDarkGrayishBlueDark1 text-DarkGrayishBlue mt-12">
+        <li>
+           <p className="text-center text- dark:text-VeryDarkGrayishBlueDark1 text-DarkGrayishBlue mt-12">
             Darg and Drop to reorder list
           </p>
+        
+        </li>
+      </ul>
+      
     </section>
   );
 };
