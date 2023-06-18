@@ -34,13 +34,13 @@ Users should be able to:
 
 ### Screenshot
 **Login View**
-![](/screenshots/loginview.png)
+![](./public/screenshots/loginview.png)
 
 **Dark Mode**
-![](/screenshots/darkmodeview.png)
+![](./public/screenshots/darkmodeview.png)
 
 **Light Mode**
-![](/screenshots/lightmodeview.png)
+![](./public/screenshots/lightmodeview.png)
 
 ### Links
 
