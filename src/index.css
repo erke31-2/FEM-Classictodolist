@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body * {
+  @apply transition-colors duration-500;
+}
+
+.list-item {
+  @apply flex bg-VeryLightGray items-center px-4 py-3 gap-1 w-full border-b border-LightGrayishBlue text-VeryDarkGrayishBlue dark:bg-VeryDarkDesaturatedBlueDark dark:text-LightGrayishBlueDark2 dark:border-VeryDarkGrayishBlueDark2;
+}
