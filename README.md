@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/erke31-2/frontendmentor-reactsupabase-todolist)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/erke31-2/frontendmentor-reactsupabase-todolist]
+- Live Site URL: [https://react-supabase-todolist.netlify.app/login]
 
 ## My process
 
