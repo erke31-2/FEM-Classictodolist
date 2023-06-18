@@ -17,8 +17,8 @@ const Login = () => {
           TODO List
         </h1>
       </header>
-      <main className="dark:bg-VeryDarkBlueDark w-full h-[calc(100vh-230px)] flex justify-center items-center relative">
-        <section className="dark:bg-VeryDarkDesaturatedBlueDark py-5 px-8 flex flex-col gap-5 rounded-lg items-center text-VeryLightGray font-Josefin dark:text-DarkGrayishBlueDark justify-evenly h-[280px] w-[250px] shadow-md absolute -top-[50px] shadow-VeryDarkGrayishBlueDark2">
+      <main className="bg-VeryDarkBlueDark w-full h-[calc(100vh-230px)] flex justify-center items-center relative">
+        <section className="bg-VeryDarkDesaturatedBlueDark py-5 px-8 flex flex-col gap-5 rounded-lg items-center text-VeryLightGray font-Josefin dark:text-DarkGrayishBlueDark justify-evenly h-[280px] w-[250px] shadow-md absolute -top-[50px] shadow-VeryDarkGrayishBlueDark2">
           <h2 className="text-xl">Carpe Diem</h2>
           <p>Seize the day!</p>
           <div className="flex flex-col justify-center items-center gap-4">
