@@ -33,14 +33,18 @@ Users should be able to:
 - **Bonus**: Drag and drop to reorder items on the list
 
 ### Screenshot
+**Login View**
+![](/screenshots/loginview.png)
 
-![](./screenshot.jpg)
+**Dark Mode**
+![](/screenshots/darkmodeview.png)
 
-
+**Light Mode**
+![](/screenshots/lightmodeview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/erke31-2/frontendmentor-reactsupabase-todolist)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
