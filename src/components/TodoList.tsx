@@ -67,7 +67,7 @@ const TodoList = ({
         {todos.length === 0 ? (
           <li>
             <p className="text-center text-VeryDarkBlueDark dark:text-LightGrayishBlueDark2">
-              There are no {filterQuery === "All" ? "" : filterQuery} todos yet!
+              There is no {filterQuery === "All" ? "" : filterQuery} todos yet!
             </p>
           </li>
         ) : (
@@ -127,7 +127,7 @@ const TodoList = ({
         </li>
         <li>
            <p className="text-center text- dark:text-VeryDarkGrayishBlueDark1 text-DarkGrayishBlue mt-12">
-            Darg and Drop to reorder list
+            Drag and Drop to reorder list
           </p>
         
         </li>
